@@ -9,3 +9,5 @@ Instructions to play:
   1.) Tree Cutting – Left and Right Key
   
   2.) Exit - Esc
+
+<img src="Timber.PNG">
