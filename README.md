@@ -6,5 +6,6 @@ This is an individual project. Not an original idea (learned this from the C++ g
 
 Instructions to play: 
 
-  1.) Tree Cutting – Left and Right Key 
-  2.) Exit - Esc 
+  1.) Tree Cutting – Left and Right Key
+  
+  2.) Exit - Esc
